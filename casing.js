@@ -41,3 +41,23 @@
 //     console.log("Password is incorrect");
 // }
 
+// console.log(0.1 + 0.2 == 0.3);
+
+// hello();
+// goodbye();
+
+
+// function hello() {
+//     setTimeout(() => {
+//         console.log("Hello");
+//     }, 3000);
+// } 
+
+// function goodbye() {
+//     console.log("Goodbye");
+// }
+
+// let a;
+// console.log(a);
+
+// console.log([] + [])
